@@ -18,7 +18,7 @@ My current focus is on turning market ideas into reproducible research artifacts
 
 <table>
   <tr>
-    <td width="40px" height="40px" style="line-height:0;">
+    <td width="40" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python">
     </td>
     <td>
@@ -35,7 +35,7 @@ My current focus is on turning market ideas into reproducible research artifacts
 
 <table>
   <tr>
-    <td width="40px" height="40px" style="line-height:0;">
+    <td width="40" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python">
     </td>
     <td>
@@ -50,7 +50,7 @@ My current focus is on turning market ideas into reproducible research artifacts
 
 <table>
   <tr>
-    <td width="40px" height="40px" style="line-height:0;">
+    <td width="40" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python">
     </td>
     <td>
@@ -65,7 +65,7 @@ My current focus is on turning market ideas into reproducible research artifacts
 
 <table>
   <tr>
-    <td width="40px" height="40px" style="line-height:0;">
+    <td width="40" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter">
     </td>
     <td>
@@ -83,7 +83,7 @@ My current focus is on turning market ideas into reproducible research artifacts
 
 <table>
   <tr>
-    <td width="40px" height="40px" style="line-height:0;">
+    <td width="40" height="40">
       <img src="https://img.shields.io/badge/KU-CSE-A41D33?style=flat-square" alt="Korea University CSE">
     </td>
     <td>
@@ -98,7 +98,7 @@ My current focus is on turning market ideas into reproducible research artifacts
 
 <table>
   <tr>
-    <td width="40px" height="40px" style="line-height:0;">
+    <td width="40" height="40">
       <img src="https://img.shields.io/badge/Find--A-Quant-111827?style=flat-square" alt="Find-A">
     </td>
     <td>
@@ -141,18 +141,3 @@ My current focus is on turning market ideas into reproducible research artifacts
 - Trading systems with explicit risk gates, control paths, and shutdown behavior
 - Statistical validation that separates signal evidence from execution quality
 - Clear documentation of assumptions, limitations, and negative results
-
----
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rhwhdgks&show_icons=true&theme=transparent&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhwhdgks&layout=compact&theme=transparent&hide_border=true" height="160" />
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rhwhdgks&theme=transparent&hide_border=true" height="160" />
-</div>
