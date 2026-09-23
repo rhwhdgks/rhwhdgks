@@ -6,7 +6,7 @@
 
 ## 대표 프로젝트
 
-- **[선물 거래 실행 엔진](https://github.com/rhwhdgks/funding-arb-engine)** — 바이낸스와 OKX 선물거래소의 주문·포지션을 함께 관리합니다. 한쪽 주문만 체결됐을 때 반대쪽 거래로 위험을 줄이고, 실패나 중단 뒤 남은 포지션을 확인·복구하는 경로를 구현했습니다. [자동 테스트 기록](https://github.com/rhwhdgks/funding-arb-engine/actions)
+- **[선물 거래 실행 엔진](https://github.com/rhwhdgks/funding-arb-engine)** — 바이낸스와 OKX 선물거래소의 주문·포지션을 함께 관리합니다. 한쪽 주문만 체결됐을 때 반대쪽 거래로 위험을 줄이고, 실패나 중단 뒤 남은 포지션을 확인·복구하는 경로를 구현했습니다.
 
 - **[코인 주문흐름 연구](https://github.com/rhwhdgks/crypto-order-flow-synchronization)** — 여러 코인의 매수·매도 체결이 함께 움직이는지 거래 자료와 호가 자료로 분석했습니다. 연구에 쓰지 않은 기간과 다른 거래소에서 다시 확인했고, 별도로 검토한 매매 아이디어는 거래비용을 고려하면 수익성을 확인하지 못했습니다.
 
